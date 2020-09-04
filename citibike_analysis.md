@@ -1,7 +1,7 @@
 # NYC Citi Bike Analysis 
 This is a summary of the analytic work that I did with the NYC Citi Bike data. The tableau report can be found here.
 
-## who is our customer?
+## Who is our customer?
 
 Looking at the graph below, you can see our highest using customer falls in the age range of 23-45 years old. 
 
@@ -13,7 +13,7 @@ Looking at this graph, you can see the average trip duration for Citibikes in NY
 
 ## Bike utilization Hours
 
-in this graph, you can see that Citibikes are utilized the most right after work times, (16:00-19:00). 70.2% of the civilian labor force population in Des Moines is over the age of 16 years old, where in NY it is only 63.5%. This leads me to believe that bikes will be used even more in Des Moines after work. 
+In this graph, you can see that Citibikes are utilized the most right after work times, (16:00-19:00). 70.2% of the civilian labor force population in Des Moines is over the age of 16 years old, where in NY it is only 63.5%. This leads me to believe that bikes will be used even more in Des Moines after work. 
 
 We see a trend of higher use of bikes after work hours, which leads us to believe that more
 of the civilian labor force will use this as a means of transportation. 
