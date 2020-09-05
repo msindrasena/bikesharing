@@ -5,6 +5,8 @@ This is a summary of the analytic work that I did with the NYC Citi Bike data. T
 
 Looking at the graph below, you can see our highest using customer falls in the age range of 23-45 years old. 
 
+![https://github.com/msindrasena/bikesharing/blob/master/1.PNG]
+
 Des Moines, Iowa has a larger population percentage of people under the age of 18 than NYC does (24.5% vs 20.9%). Because Des Moines has a large incoming younger generation, they have a higher chance of a steady stream of incoming customers than NYC. 
 
 ## What is being used?
