@@ -20,12 +20,9 @@ Looking at this graph, you can see the average trip duration for Citibikes in NY
 
 In this graph, you can see that Citibikes are utilized the most right after work times, (16:00-19:00). 70.2% of the civilian labor force population in Des Moines is over the age of 16 years old, where in NY it is only 63.5%. This leads me to believe that bikes will be used even more in Des Moines after work. 
 
-
 ![](https://github.com/msindrasena/bikesharing/blob/master/3.PNG)
-
 We see a trend of higher use of bikes after work hours, which leads us to believe that more
 of the civilian labor force will use this as a means of transportation. 
 
 ![](https://github.com/msindrasena/bikesharing/blob/master/4.PNG)
-
 Also, the mean travel time to work in Des Moines is only 19 minutes- which is a lot easier to do on a bike than a 41 minute average commute which New Yorkers have. The people in Des Moines will consider biking as a mode of transportation for their everyday use to and from work because of a shorter commute. 
