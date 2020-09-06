@@ -1,5 +1,5 @@
 # NYC Citi Bike Analysis 
-This is a summary of the analytic work that I did with the NYC Citi Bike data. The tableau report can be found here.
+This is a summary of the analytic work that I did with the NYC Citi Bike data. The tableau report can be found here "https://public.tableau.com/profile/melina.indrasena#!/vizhome/ChallengeStory_15993175860480/Challenge-Presenter?publish=yes".
 
 ## Who is our customer?
 
